@@ -1,6 +1,8 @@
 pebble-watchface-unixtime
 =========================
 
+![Unix Time](https://github.com/davewongillies/pebble-watchface-unixtime/raw/master/unixtime.jpg)
+
 A Pebble watch face that displays seconds since the Unix epoch
 
 Due to the (current) lack of time zone awareness, it must be compiled
